@@ -3,7 +3,7 @@
 ![Albert Einstein](http://i.imgur.com/Pwh4QrR.jpg?1)
 > Life is like riding a bicycle. To keep your balance, you must keep moving. ~[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
-
+ddfdf
 ## Overview
 
 We'll cover type annotation and introduce a new type, Integers. 
